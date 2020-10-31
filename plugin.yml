@@ -1,0 +1,9 @@
+name: Chat
+author: Fin/getQueryString
+version: 1.0
+main: chat.main
+commands:
+  clearchat:
+    description: Leert den Chat.
+    aliases:
+    - cc
